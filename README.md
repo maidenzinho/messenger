@@ -4,7 +4,7 @@
 2- Import the talk messenger.sql file into database
 3- Compress the Talk Messenger folder in .zip and send it to the file manager.
 
-site demo: http://starwebservices.ml/
+site demo: Em breve
 
 Administrator login
 Email: admin@admin.com
@@ -16,7 +16,7 @@ Password: admin123
 2- Importe o arquivo talk messenger.sql para o banco de dados
 3- Compacte a pasta Talk Messenger em .zip e envie para o gerenciador de arquivos.
 
-demonstração do site: http://starwebservices.ml/
+demonstração do site: Em breve
 
 Login de administrador
 Email: admin@admin.com
