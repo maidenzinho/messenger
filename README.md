@@ -4,7 +4,7 @@
 2- Import the talk messenger.sql file into database
 3- Compress the Talk Messenger folder in .zip and send it to the file manager.
 
-site demo: Em breve
+site demo: Coming soon
 
 Administrator login
 Email: admin@admin.com
